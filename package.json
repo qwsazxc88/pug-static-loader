@@ -7,9 +7,11 @@
     "verbose": "true"
   },
   "dependencies": {
-    "joi": "^8.0.5",
-    "pug": "^2.0.0-alpha8"
+    "joi": "^8.0.5"
   },
+  "peerDependencies": {
+    "pug": "2.x"
+  }
   "devDependencies": {
     "ava": "^0.15.1",
     "coveralls": "^2.11.9",
