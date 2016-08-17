@@ -11,7 +11,7 @@
   },
   "peerDependencies": {
     "pug": "2.x"
-  }
+  },
   "devDependencies": {
     "ava": "^0.15.1",
     "coveralls": "^2.11.9",
